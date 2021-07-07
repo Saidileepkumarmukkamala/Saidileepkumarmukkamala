@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 ##  _Sai Dileep Kumar Mukkamala_ 
-a third-year undergrad, pursuing B.Tech in Indian Institute of Information Technology-Kalyani,Kolkata.
+A third-year undergrad, pursuing B.Tech in Indian Institute of Information Technology-Kalyani,Kolkata.
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Machine Learning and Deep Learning
