@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-##  **Saidileepkumarmukkamala** a third-year undergrad, pursuing B.Tech in Indian Institute of Information Technology,Kalyani,Kolkata.
+##  _Saidileepkumarmukkamala_,  a third-year undergrad, pursuing B.Tech in Indian Institute of Information Technology,Kalyani,Kolkata.
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Machine Learning and Deep Learning
