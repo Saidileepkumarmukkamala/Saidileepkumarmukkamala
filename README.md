@@ -9,4 +9,4 @@ A third-year undergrad, pursuing B.Tech in CSE from Indian Institute of Informat
 - 🤔 I’m looking for help with Internship
 - 💬 Ask me about Python,ML,DL . I shall try to help.
 - 📫 How to reach me: msaidileepkumar2002@gmail.com
-- 😄 Pronouns: You can give me one.
+- 😄 Pronouns: ML'ist , DL'ist
