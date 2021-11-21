@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Machine Learning and Deep Learning Enthusiastic.</h3>
 
 
-<img align="right" alt="AI" width="400" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif">
 
-- 🌱 I’m currently learning **Deep Learning , Machine Learning , NLP**
+- 🌱 I’m currently learning **Deep Learning , Machine Learning , NLP , Opencv**
+<img align="right" alt="AI" width="350" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif">
 
 - 👯 I’m looking to collaborate on **Projects**
 
