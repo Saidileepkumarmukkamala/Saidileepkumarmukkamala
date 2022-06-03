@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif", width="10px">, I'm Sai Dileep Kumar Mukkamala</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif", width="30">, I'm Sai Dileep Kumar Mukkamala</h1>
 <h3 align="center">A passionate Machine Learning and Deep Learning Enthusiastic.</h3>
 
 
