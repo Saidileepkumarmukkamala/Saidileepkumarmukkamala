@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sai Dileep Kumar Mukkamala</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif", width="10px">, I'm Sai Dileep Kumar Mukkamala</h1>
 <h3 align="center">A passionate Machine Learning and Deep Learning Enthusiastic.</h3>
 
 
 
 - 🌱 I’m currently learning **Deep Learning , Machine Learning , NLP , Opencv**
-<img align="right" alt="AI" width="350" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif">
+<img align="right" alt="AI" width="300" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif">
 
 - 👯 I’m looking to collaborate on **Projects**
 
