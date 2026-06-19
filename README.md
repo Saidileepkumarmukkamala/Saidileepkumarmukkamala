@@ -1,17 +1,15 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif", width="30">, I'm Sai Dileep Kumar Mukkamala</h1>
-<h3 align="center">A passionate Data Scientist Enthusiastic.</h3>
+<h3 align="center">A passionate Entrepreneur.</h3>
 
 
 
-- 🌱 I’m currently learning **Deep Learning , Machine Learning**
+- 🌱 I’m currently founder **Pulse AI**
 <img align="right" alt="AI" width="300" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif">
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 🤝 I’m looking for help with **Job**
-
-- 💬 Ask me about **ML , DL**
+- 💬 Ask me about **AI , LLM**
 
 - 📫 How to reach me **msaidileepkumar2002@gmail.com**
 
