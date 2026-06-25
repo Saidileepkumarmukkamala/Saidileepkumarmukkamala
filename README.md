@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently founder **Pulse AI**
+- 🌱 I’m currently a founder @ **PULSE AI**
 <img align="right" alt="AI" width="300" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif">
 
 - 👯 I’m looking to collaborate on **Projects**
